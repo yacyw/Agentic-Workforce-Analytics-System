@@ -1,6 +1,6 @@
 # Agentic Workforce Analytics System
 
-*By **Yasaman Mohammadi Ahani** (<mohammadi.ahani@gmail.com>) — October 2026.*
+
 
 Agentic workforce analytics: daily worker data (sensors + micro-surveys +
 object-detection events) → agent-authored daily reports → a monthly dashboard
